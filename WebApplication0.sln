@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication0", "WebApplication0\WebApplication0.csproj", "{A84BA893-9DFE-4349-9DD3-786915BCC20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMvcIdentity", "AspNetCoreMvcIdentity\AspNetCoreMvcIdentity.csproj", "{6E8E89E9-5F4B-4E6A-B76F-E9372D2A9EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84BA893-9DFE-4349-9DD3-786915BCC20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84BA893-9DFE-4349-9DD3-786915BCC20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84BA893-9DFE-4349-9DD3-786915BCC20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84BA893-9DFE-4349-9DD3-786915BCC20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
